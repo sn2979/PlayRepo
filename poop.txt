@@ -1,7 +1,4 @@
 <<<<<<< HEAD
 poop hello hello
-=======
 poop
-Peepee hehehhe 
-HOHOHOHOHOHOH
 >>>>>>> main
